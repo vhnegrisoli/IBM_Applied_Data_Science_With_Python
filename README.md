@@ -48,5 +48,5 @@ Duração de 10 horas - Aguardando finalização do 2º curso
 
 Victor Hugo Negrisoli:
 
-* LinkedIn[https://www.linkedin.com/in/victorhugonegrisoli]
-* Portfolio[https://vhnegrisoli.github.io/portfolio/]
+* [LinkedIn](https://www.linkedin.com/in/victorhugonegrisoli)
+* [Portfolio](https://vhnegrisoli.github.io/portfolio/)
