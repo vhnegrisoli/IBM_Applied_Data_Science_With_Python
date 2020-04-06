@@ -45,3 +45,8 @@ Duração de 10 horas - Aguardando finalização do 2º curso
 * Ferramtentas de visualização de dados em Python
 * Plotagens em área, histograma, boxplot, barras, linhas, bolhas e dispersão com Matplotlib
 * Criando visualizações em mapas e modelos geoespaciais
+
+Victor Hugo Negrisoli:
+
+* LinkedIn[https://www.linkedin.com/in/victorhugonegrisoli]
+* Portfolio[https://vhnegrisoli.github.io/portfolio/]
