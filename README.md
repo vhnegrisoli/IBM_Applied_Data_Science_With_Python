@@ -1,6 +1,13 @@
 # Formação Applied Data Science With Python - IBM Cognitive Class
 
-Esse repositório contém todo o conteúdo da formação Applied Data Science With Python pela IBM realizada na plataforma Cognitive Class, contendo 3 cursos
+Esse repositório contém todo o conteúdo da formação Applied Data Science With Python pela IBM realizada na plataforma Cognitive Class, contendo 3 cursos.
+
+Principais tecnologias:
+
+* Python 3
+* Pandas
+* Matplotlib
+* NumPy
 
 Cursos da formação de Cientista de Dados pela IBM:
 
