@@ -8,6 +8,8 @@ Principais tecnologias:
 * Pandas
 * Matplotlib
 * NumPy
+* Scikit-Learn
+* Seaborn
 
 Cursos da formação de Cientista de Dados pela IBM:
 
@@ -18,6 +20,8 @@ Duração de 5 horas - Finalizado com nota 92.5
 ```
 
 [Certificado de Conclusão](https://courses.cognitiveclass.ai/certificates/2f019fa2435e4981bbe11a3998d29b35)
+
+[Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/38233d1b-f3f7-46d4-9237-e05bb635bd49/linked_in_profile)
 
 #### Conteúdos:
 
@@ -30,8 +34,12 @@ Duração de 5 horas - Finalizado com nota 92.5
 ### Curso 02 - Data Analysis With Python (Em progresso)
 
 ```
-Duração de 8 horas - Curso em progesso
+Duração de 8 horas - Concluído com nota 94
 ```
+
+[Certificado de Conclusão](https://courses.cognitiveclass.ai/certificates/user/1463256/course/course-v1:CognitiveClass+DA0101EN+2017)
+
+[Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/caf0c17c-2180-4f85-8541-466d47c86e80/linked_in_profile)
 
 #### Conteúdos:
 
@@ -41,10 +49,10 @@ Duração de 8 horas - Curso em progesso
 * Estatística descritiva
 * Avaliação de modelos de dados
 
-### Curso 03 - Data Visualization with Python (Aguardando)
+### Curso 03 - Data Visualization with Python (Em Progresso)
 
 ```
-Duração de 10 horas - Aguardando finalização do 2º curso 
+Duração de 10 horas - Em Progresso
 ```
 
 #### Conteúdos:
