@@ -52,7 +52,7 @@ Duração de 8 horas - Concluído com nota 94
 ### Curso 03 - Data Visualization with Python (Em Progresso)
 
 ```
-Duração de 10 horas - Em Progresso
+Duração de 10 horas - Concluído com nota 86 
 ```
 
 #### Conteúdos:
