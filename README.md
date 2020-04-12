@@ -55,11 +55,20 @@ Duração de 8 horas - Concluído com nota 94
 Duração de 10 horas - Concluído com nota 86 
 ```
 
+[Certificado de Conclusão](https://courses.cognitiveclass.ai/certificates/user/1463256/course/course-v1:CognitiveClass+DV0101EN+v1)
+
+[Badge de Conclusão pela IBM](https://www.youracclaim.com/earner/earned/badge/011ac9e7-c91f-481f-8a8d-99db1882e1c0)
+
+
 #### Conteúdos:
 
 * Ferramtentas de visualização de dados em Python
 * Plotagens em área, histograma, boxplot, barras, linhas, bolhas e dispersão com Matplotlib
 * Criando visualizações em mapas e modelos geoespaciais
+
+### Certificado da Badge Applied Data Science With Python - Level 2
+
+[Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/be208b34-6767-4236-8e9a-bf68a5fca62c)
 
 Victor Hugo Negrisoli:
 
