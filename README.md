@@ -1,8 +1,14 @@
 # Formação Applied Data Science With Python - IBM Cognitive Class
 
-Esse repositório contém todo o conteúdo da formação Applied Data Science With Python pela IBM realizada na plataforma Cognitive Class, contendo 3 cursos.
+## Objetivos
 
-Principais tecnologias:
+Esse repositório tem o objetivo de apresentar todo o conteúdo desenvolvido por mim durante a formação Applied Data Science With Python pela IBM realizada na plataforma Cognitive Class, contendo os cursos:
+
+* Python For Data Science
+* Data Analysis With Python
+* Data Visualization With Python
+
+## Tecnologias
 
 * Python 3
 * Pandas
@@ -11,7 +17,7 @@ Principais tecnologias:
 * Scikit-Learn
 * Seaborn
 
-Cursos da formação de Cientista de Dados pela IBM:
+## Cursos da formação de Cientista de Dados pela IBM
 
 ### Curso 01 - Python For Data Science (Concluído)
 
@@ -23,6 +29,8 @@ Duração de 5 horas - Finalizado com nota 92.5
 
 [Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/38233d1b-f3f7-46d4-9237-e05bb635bd49/linked_in_profile)
 
+![Badge Python For Data Science](https://uploaddeimagens.com.br/images/002/760/602/full/badge1.png?1594347813)
+
 #### Conteúdos:
 
 * Fundamentos de Python
@@ -31,7 +39,7 @@ Duração de 5 horas - Finalizado com nota 92.5
 * Manipulação de dados com Python
 * Arrays utilizando NumPy e Pandas para manipulação de dados
 
-### Curso 02 - Data Analysis With Python (Em progresso)
+### Curso 02 - Data Analysis With Python (Concluído)
 
 ```
 Duração de 8 horas - Concluído com nota 94
@@ -41,6 +49,9 @@ Duração de 8 horas - Concluído com nota 94
 
 [Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/caf0c17c-2180-4f85-8541-466d47c86e80/linked_in_profile)
 
+
+![Badge Data Analysis With Python](https://uploaddeimagens.com.br/images/002/760/603/original/badge2.png?1594347820)
+
 #### Conteúdos:
 
 * Data Wrangling (tratamento de dados) com Pandas
@@ -49,7 +60,7 @@ Duração de 8 horas - Concluído com nota 94
 * Estatística descritiva
 * Avaliação de modelos de dados
 
-### Curso 03 - Data Visualization with Python (Em Progresso)
+### Curso 03 - Data Visualization with Python (Concluído)
 
 ```
 Duração de 10 horas - Concluído com nota 86 
@@ -59,6 +70,7 @@ Duração de 10 horas - Concluído com nota 86
 
 [Badge de Conclusão pela IBM](https://www.youracclaim.com/earner/earned/badge/011ac9e7-c91f-481f-8a8d-99db1882e1c0)
 
+![Data Visualization with Python](https://uploaddeimagens.com.br/images/002/760/605/original/badge3.png?1594347831)
 
 #### Conteúdos:
 
@@ -69,6 +81,8 @@ Duração de 10 horas - Concluído com nota 86
 ### Certificado da Badge Applied Data Science With Python - Level 2
 
 [Badge de Conclusão pela IBM](https://www.youracclaim.com/badges/be208b34-6767-4236-8e9a-bf68a5fca62c)
+
+![Applied Data Science With Python](https://uploaddeimagens.com.br/images/002/760/604/original/badge4.png?1594347829)
 
 Victor Hugo Negrisoli:
 
